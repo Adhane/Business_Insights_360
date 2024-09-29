@@ -21,7 +21,7 @@ _____________________________________________
 3. Data modelling involving 10+ tables
 4. Choosing the right visuals and formatting
 5. Dashboard designing principles
-6. USe of bookmarks
+6. Use of bookmarks
 7. Deploying in Power BI service
 8. Stakeholder Feedback Implementation
 9. Sales, Marketing, Finance & Supply Chain metrics
